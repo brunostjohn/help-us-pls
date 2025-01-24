@@ -43,7 +43,7 @@
 	you and your experiences.
 </p>
 
-<h2 class="my-4 mt-6 text-4xl font-semibold">Let's do it</h2>
+<h2 class="my-4 mt-6 text-4xl font-semibold">Let's do it 👇</h2>
 {#if randomBoolean()}
 	<BrunoWidget />
 {:else}
